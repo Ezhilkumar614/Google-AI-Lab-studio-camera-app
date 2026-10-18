@@ -1,0 +1,6 @@
+{
+  "name": "CineBoard - AI Storyboard Studio",
+  "description": "Generate professional multi-shot cinematic storyboards from prompt ideas, with dynamic three-column visual workspace, script breakdown, and animatic preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
